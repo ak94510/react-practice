@@ -1,0 +1,7 @@
+.CharComp {
+  display: inline-block;
+  margin: 16px auto;
+  border: 1px solid #eee;
+  padding: 16px;
+  text-align: center;
+}
